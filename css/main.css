@@ -1,0 +1,41 @@
+@font-face {
+  font-family: helvetica;
+  src: url("../fonts/helvetica.ttf") format("truetype");
+}
+@font-face {
+  font-family: fira;
+  src: url("../fonts/FiraMono-Regular.ttf");
+}
+.mynav{
+  font-family: fira;
+}
+.my-row {
+  font-family: helvetica;
+}
+span {
+  font-size: 7vw;
+  color: #ffff;
+  background-color: #000;
+}
+.hname:hover {
+  background-color: #009b77;
+}
+.hdegree:hover {
+  background-color: transparent;
+  color:#000;
+}
+.hwork:hover {
+  background-color: #bb2cce;
+  color: #000;
+}
+.fa-github:hover{
+  color: #ffffff !important;
+}
+.fa-stack-overflow:hover{
+  color: #fdfdfd !important;
+}
+.mynav{
+  font-family: fira;
+}
+
+/* Media query */
