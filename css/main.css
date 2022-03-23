@@ -12,7 +12,7 @@
 .my-row {
   font-family: helvetica;
 }
-span {
+.hname,.hdegree,.hwork {
   font-size: 7vw;
   color: #ffff;
   background-color: #000;
@@ -34,8 +34,4 @@ span {
 .fa-stack-overflow:hover{
   color: #fdfdfd !important;
 }
-.mynav{
-  font-family: fira;
-}
-
 /* Media query */
