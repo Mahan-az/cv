@@ -42,9 +42,12 @@
   font-family: fira;
 }
 .aboutme {
-  border-bottom: dotted;
-  border-width: 4px;
-  border-color: #ff2b2b ;
+  border-bottom: 4px dotted #ff2b2b;
+}
+.portfolio {
+  border: 3px dashed #ff2b2b;
+  font-size: 3rem;
+  font-weight: bold;
 }
 /* Media query */
 /* fixed icons in mobile veiw */
