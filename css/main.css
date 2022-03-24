@@ -49,6 +49,17 @@
   font-size: 3rem;
   font-weight: bold;
 }
+footer{
+  background-color: #a463f2;
+}
+.WDYT {
+  color: #000;
+  background-color: #000;
+}
+.WDYT:hover{
+  color: #000000;
+  background-color: #7700ff;
+}
 /* Media query */
 /* fixed icons in mobile veiw */
 /* fixed navbar in mobile view */
